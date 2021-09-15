@@ -1,4 +1,4 @@
-# Phys1600Final
+# TOFSim
 ## Simulating the Time-of-Flight Mass Spectrometer
 
 Please see `Final Project.ipynb` to start.
