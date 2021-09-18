@@ -151,7 +151,7 @@ class EMSimulationSpace(object):
         Compute the potential using the Gauss-Seidel method.
         Returns the error dV of the step.
         """
-        return inf
+        return np.inf
     
     def E_at(self, location):
         """
