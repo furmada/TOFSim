@@ -7,15 +7,14 @@ Brown University
 
 Provides solid object simulations for use with the framework.
 """
-
 def make_enforcer(*lambdas):
     """
     Package a series of boundary conditions into a single callable.
     Parameters:
-     * list of [callable](sim)
+     * list of [callable](sim).
     Returns [callable](sim)
     """
-    return lambda sim: [f(sim) for f in lambdas]
+    return lambda sim:[f(sim) for f in lambdas]
 
 def enf(func, *args, **kwargs):
     """
@@ -25,26 +24,6 @@ def enf(func, *args, **kwargs):
     Returns [callable](sim)
     """
     return lambda sim: func(sim, *args, **kwargs)
-
-def enf_nosolid(func, *args, **kwargs):
-    """
-    Returns a callable representation of enforced boundary conditions. There is no
-    physical boundary mask value set in the region affected.
-    Parameters:
-     - func [callable]: A boundary enforcing function that takes (sim, *args, **kwargs)
-    Returns [callable](sim)
-    """
-    def nosolid_internal(sim):
-        if np.isinf(sim.V).any():
-            sim.V = np.full(sim.V.shape, np.inf)
-            bm = np.zeros(sim.V.shape, int)
-            func(sim, *args, **kwargs)
-            np.isfinite(sim.V, bm, where=1)
-            #replace = (sim.boundary_mask==1)
-            #print(replace)
-        else:
-            func(sim, *args, **kwargs)
-    return nosolid_internal
 
 class EMObjects:
     """
