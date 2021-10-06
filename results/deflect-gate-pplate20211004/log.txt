@@ -1,0 +1,11 @@
+Created output folder from deflect-gate-pplate at 2021-10-04 16:05:23
+Opened output folder from deflect-gate-pplate at 2021-10-04 16:06:40
+2021-10-04 16:20:54: 4, 3, 3
+2021-10-04 16:20:54: -2.0, -1.5, -1.5
+2021-10-04 16:20:54: 10
+2021-10-04 16:21:03: 4, 3, 3
+2021-10-04 16:21:03: -2.0, -1.5, -1.5
+2021-10-04 16:21:03: 10
+2021-10-04 16:21:24: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-04 16:21:24: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-04 16:21:24: SIMULATION SCALE SET AT: 10

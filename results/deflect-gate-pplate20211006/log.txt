@@ -1,0 +1,5 @@
+Created output folder from deflect-gate-pplate at 2021-10-06 14:48:52
+2021-10-06 14:49:00: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 14:49:00: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 14:49:00: SIMULATION SCALE SET AT: 10
+2021-10-06 14:51:36: Particle path experiment ran.
