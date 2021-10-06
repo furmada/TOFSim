@@ -3,3 +3,44 @@ Created output folder from deflect-gate-pplate at 2021-10-06 14:48:52
 2021-10-06 14:49:00: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
 2021-10-06 14:49:00: SIMULATION SCALE SET AT: 10
 2021-10-06 14:51:36: Particle path experiment ran.
+Opened output folder from deflect-gate-pplate at 2021-10-06 16:07:34
+Opened output folder from deflect-gate-pplate at 2021-10-06 16:08:34
+Opened output folder from deflect-gate-pplate at 2021-10-06 16:08:50
+2021-10-06 16:09:04: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 16:09:04: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 16:09:04: SIMULATION SCALE SET AT: 10
+Opened output folder from deflect-gate-pplate at 2021-10-06 16:35:17
+2021-10-06 16:35:19: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 16:35:19: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 16:35:19: SIMULATION SCALE SET AT: 10
+2021-10-06 16:35:23: Particle path experiment ran.
+Opened output folder from deflect-gate-pplate at 2021-10-06 16:38:18
+2021-10-06 16:38:20: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 16:38:20: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 16:38:20: SIMULATION SCALE SET AT: 10
+Opened output folder from deflect-gate-pplate at 2021-10-06 17:14:06
+2021-10-06 17:14:09: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 17:14:09: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 17:14:09: SIMULATION SCALE SET AT: 10
+Opened output folder from deflect-gate-pplate at 2021-10-06 17:21:55
+2021-10-06 17:21:56: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 17:21:56: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 17:21:56: SIMULATION SCALE SET AT: 10
+2021-10-06 17:22:00: Particle path experiment ran.
+2021-10-06 17:22:12: Particle path experiment ran.
+2021-10-06 17:35:34: Particle path experiment ran.
+2021-10-06 17:35:42: Particle path experiment ran.
+2021-10-06 17:36:42: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 17:36:42: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 17:36:42: SIMULATION SCALE SET AT: 20
+Opened output folder from deflect-gate-pplate at 2021-10-06 17:36:43
+2021-10-06 17:36:44: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-06 17:36:44: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-06 17:36:44: SIMULATION SCALE SET AT: 20
+2021-10-06 17:37:06: Particle path experiment ran.
+2021-10-06 17:38:10: Particle path experiment ran.
+2021-10-06 17:38:43: Particle path experiment ran.
+2021-10-06 17:45:25: Particle path experiment ran.
+2021-10-06 17:45:37: Particle path experiment ran.
+2021-10-06 17:45:46: Particle path experiment ran.
+2021-10-06 17:45:56: Particle path experiment ran.
