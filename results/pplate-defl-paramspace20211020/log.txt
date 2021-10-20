@@ -1,0 +1,17 @@
+Created output folder from pplate-defl-paramspace at 2021-10-20 14:02:40
+2021-10-20 14:02:48: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-20 14:02:48: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-20 14:02:48: SIMULATION SCALE SET AT: 20
+2021-10-20 14:02:55: Particle path experiment ran.
+2021-10-20 14:25:49: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-20 14:25:49: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-20 14:25:49: SIMULATION SCALE SET AT: 20
+2021-10-20 14:28:20: Particle path experiment ran.
+Opened output folder from pplate-defl-paramspace at 2021-10-20 14:42:53
+2021-10-20 16:07:52: SIMULATION SPACE SIZE: 4, 3, 3
+2021-10-20 16:07:52: SIMULATION SPACE TOP_LEFT: -2.0, -1.5, -1.5
+2021-10-20 16:07:52: SIMULATION SCALE SET AT: 20
+2021-10-20 16:08:05: Particle path experiment ran.
+2021-10-20 16:08:21: Particle path experiment ran.
+2021-10-20 16:08:45: Particle path experiment ran.
+2021-10-20 16:08:55: Particle path experiment ran.

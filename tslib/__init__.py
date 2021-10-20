@@ -38,11 +38,11 @@ def ts_log(progid, *messages):
     else:
         raise ValueError("The output folder was not made yet!")
 
-def ts_csvout(progid, fname, data=[]):
+def ts_csvout(progid, fname, data=[], append=True):
     dt = datetime.datetime.now()
     path = os.path.join("results", progid + dt.strftime("%Y%m%d"))
     if os.path.exists(path):
-        with open(os.path.join(path, fname), "a") as f:
+        with open(os.path.join(path, fname), "a" if append else "w") as f:
             f.write(",".join([str(d) for d in data]) + "\n")
     else:
         raise ValueError("The output folder was not made yet!")
