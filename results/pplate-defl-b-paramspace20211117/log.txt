@@ -1,0 +1,6 @@
+Created output folder from pplate-defl-b-paramspace at 2021-11-17 15:59:58
+2021-11-17 16:00:01: SIMULATION SPACE SIZE: 0.045, 0.03, 0.03
+2021-11-17 16:00:01: SIMULATION SPACE TOP_LEFT: -0.0225, -0.015, -0.015
+2021-11-17 16:00:01: SIMULATION SCALE SET AT: 2000
+2021-11-17 16:00:42: Particle path experiment ran.
+2021-11-17 16:00:59: Particle path experiment ran.

@@ -1,0 +1,11 @@
+Created output folder from unit-test at 2021-11-10 16:47:39
+Opened output folder from unit-test at 2021-11-10 16:49:32
+Opened output folder from unit-test at 2021-11-10 16:50:40
+2021-11-10 17:05:31: Final Position [-0.36889928  0.00508563  0.00508563]
+2021-11-10 17:05:31: Final Velocity [-3.78720325e-01  4.39341754e-05  4.39341754e-05]
+2021-11-10 17:06:49: Dimensions in sim units: {'length': 0.02, 'box': 0.01, 'thickness': 0.001}
+2021-11-10 17:06:52: Sim scale: 2000
+2021-11-10 17:06:59: Final Position [-0.36889928  0.00508563  0.00508563]
+2021-11-10 17:06:59: Final Velocity [-3.78720325e-01  4.39341754e-05  4.39341754e-05]
+2021-11-10 17:20:26: Dimensions in sim units: {'length': 0.02, 'box': 0.01, 'thickness': 0.001}
+2021-11-10 17:20:29: Sim scale: 2000

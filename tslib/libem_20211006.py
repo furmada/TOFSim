@@ -78,10 +78,10 @@ class EMSimulationSpace(object):
         self.axis_names = [str(i + 1) for i in range(len(space_size))] if axis_names is None else axis_names
         
         self.dimensions = len(space_size)
-        self.point_space_size = self.space_size * self.scale
+        self.point_space_size = [int(x) for x in self.space_size * self.scale]
         self.n_points = np.prod(self.point_space_size)
         
-        self.V = np.zeros([s * self.scale for s in self.space_size])
+        self.V = np.zeros([round(s * self.scale) for s in self.space_size])
         
     @staticmethod
     def load(filepath):
