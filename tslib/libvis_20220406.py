@@ -372,7 +372,7 @@ class VideoMaker(object):
         """
         self.fig.canvas.draw()
         if save:
-            plt.savefig(os.path.join(self.videoDir, "frame{:03d}.png".format(self.curr_frame)))
+            plt.savefig(os.path.join(self.videoDir, "frame{:03d}.png".format(self.curr_frame)), dpi=200)
         
     def make_movie(self, folder="", name="movie.mp4"):
         """
